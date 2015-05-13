@@ -70,7 +70,7 @@
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
-                            +91 &lt;some_number&gt;
+                            +91 786 925 2296
                         </li>
                         <li>
                             <i class="fa fa-map-marker fa-fw"></i>
