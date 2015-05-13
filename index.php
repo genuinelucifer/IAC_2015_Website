@@ -232,7 +232,7 @@ The exchange of perspectives between the industry personnel and the academia can
                         </li>
                         <li>
                             <a href="#" class="btn btn-primary-trn">
-                                <i class="fa fa-phone"></i>+91-732-4240 719/723/725
+                                <i class="fa fa-phone">+91-732-4240 719/723/725</i>
                             </a>
                         </li>
                     </ul>
@@ -256,7 +256,7 @@ The exchange of perspectives between the industry personnel and the academia can
     <section class="section-lg">
         <div class="container ">
             <h2 class="big-title text-center">Contact Us</h2>
-            <p class="big-subtitle text-center">Together, we can make the world a better place for all beings. We look forward to listening to your ideas and experiences. Your contribution will go to work instantly to help the underprivileged sections of society.</p>
+            <p class="big-subtitle text-center"> We look forward to listening to your ideas and experiences.</p>
             <div class="space"></div>
             <div class="row">
                 <!--div class="col-md-6 col-sm-7">
@@ -312,8 +312,9 @@ The exchange of perspectives between the industry personnel and the academia can
                             <p>If you have any questiong about our activities or something else, please email us or call us. We'll get in touch with you as soon as possible.</p>
                         </li>
                         <li>
-                            <h4>Contact Person</h4>
-                            <p>Piyush Dugar</p>
+                            <h4>Contact Persons</h4>
+                            <p>Dr. Santosh Vishwakarma - (Faculty Incharge)</p>
+                            <p>Piyush Dugar - (Student Incharge)</p>
                         </li>
                     </ul>
                 </div>
@@ -332,7 +333,10 @@ The exchange of perspectives between the industry personnel and the academia can
                         <li>
                             <h4>Call Us</h4>
                             <p>
-                                <a href="mailto:#">+91 &lt;Some_Number&gt;</a>
+                                Dr. Santosh Vishwakarma <br><a href="mailto:#">+91-732-4240 719/723/725</a>
+                            </p>
+                            <p>
+                                Piyush Dugar <br><a href="mailto:#">+91 786 925 2296</a>
                             </p>
                         </li>
                     </ul>
