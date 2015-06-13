@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if IE 9]> <html lang="en" class="js-no ie9"> <![endif]-->
 <!--[if IE 10]> <html lang="en" class="js-no ie10"> <![endif]-->
@@ -64,7 +63,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" width="35px">IAC <span class="text-primary">2015</span></a>
+            <a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" width="35px">  IAC<span class="text-primary"> 2015</span></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
@@ -77,20 +76,20 @@
                 </li>
 
                 <!--Pages-->
-           <!--     <li class="dropdown">
+            <!--    <li class="dropdown">
                     <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0">Activities</a>
 
                     <ul class="dropdown-menu">
-
-                        <!-- About Pages -->
-                 <!--       <li class="dropdown-submenu">
+                
+                         About Pages -->
+                <!--        <li class="dropdown-submenu">
                             <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Diwali Celebration</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="activities.php#diwali">Old Age Home</a>
+                                    <a href="activities.html#diwali">Old Age Home</a>
                                 </li>
                                 <li>
-                                    <a href="activities.php#diwali">Government Hospital</a>
+                                    <a href="activities.html#diwali">Government Hospital</a>
                                 </li>
                             </ul>
                         </li>
@@ -99,33 +98,34 @@
                             <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Eye Check-up</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="activities.php#eye">Eye Check-up Camp</a>
+                                    <a href="activities.html#eye">Eye Check-up Camp</a>
                                 </li>
                                 <li>
-                                    <a href="activities.php#eye">Eye Donation Seminar</a>
+                                    <a href="activities.html#eye">Eye Donation Seminar</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li>
-                            <a href="activities.php#independence">Independence Day</a>
+                            <a href="activities.html#independence">Independence Day</a>
                         </li>
 
                         <li>
-                            <a href="activities.php#cloth">Cloth Donation</a>
+                            <a href="activities.html#cloth">Cloth Donation</a>
                         </li>
 
                         <li>
-                            <a href="activities.php#blood">Blood Donation</a>
+                            <a href="activities.html#blood">Blood Donation</a>
                         </li>
                         
                         <li>
-                            <a href="activities.php#food">Food Distribution</a>
+                            <a href="activities.html#food">Food Distribution</a>
                         </li>
 
                     </ul>
                 </li>
                 -->
+
                 <!--Portfolio-->
                 <li class="dropdown">
                     <a href="#" class="scroll dropdown-toggle" data-delay="0">Gallery
@@ -156,4 +156,3 @@
         <!-- /.navbar-collapse -->
     </div>
 </nav>
-

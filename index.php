@@ -5,13 +5,13 @@
 <!-- If navbar is fixed to top and it has the class navbar-default or navbar-inverse this div will add space below the navbar-->
 <div id="navbarSpaceBottom"></div>
     <!-- Introduction section -->
-    <section class="bg-13" id="home">
+    <section id="home">
         <div class="bg-filter sTop">
-            <div class="container">
+            
                 <div class="jumbotron trn v-center">
-                    <img src="assets/img/poster.jpg" width="100%" style="margin-top:50px;margin-left:-50px" align="center">
+                    <img src="assets/img/poster.jpg" width="100%" style="margin-top:50px" align="center">
                 </div>
-            </div>
+           
         </div>
     </section>
 
@@ -93,9 +93,10 @@ The exchange of perspectives between the industry personnel and the academia can
 
     </div>
 
+
     -->
     
-   <div class="bg-11 bg-center bg-fixed" style="background:url('assets/img/collage1.jpg');background-size:100%;">
+    <div class="bg-11 bg-center bg-fixed" style="background:url('assets/img/collage1.jpg');background-size:100%;">
         <div class="section-lg bg-filter-v2">
             <div class="container">
                 <div id="testimonial" class="carousel slide" data-ride="carousel" data-interval="9000">
@@ -142,8 +143,7 @@ The exchange of perspectives between the industry personnel and the academia can
         </div>
     </div>
 
-
-  <!--  Pricing Tables  -->
+    <!--  Pricing Tables  -->
     <section class="section-lg" name="teaching">
         <div class="container">
             <h2 class="big-title text-center">Our Past Achievements</h2>
@@ -222,7 +222,7 @@ The exchange of perspectives between the industry personnel and the academia can
             <div class="space"></div>
             <div class="panel panel-default bg-grey-4 text-center wow fadeIn" data-wow-delay="0s">
                 <div class="panel-body">
-                    <h4 class="wow fadeIn" data-wow-delay="0.25s">Feel free to contact us, we would love to hear some creative ideas on teaching!</h4>
+                    <h4 class="wow fadeIn" data-wow-delay="0.25s">Feel free to contact us, we would love to hear!</h4>
                     <div class="space-sm"></div>
                     <ul class="list-inline wow fadeIn" data-wow-delay="0.5s">
                         <li>
@@ -241,7 +241,7 @@ The exchange of perspectives between the industry personnel and the academia can
         </div>
     </section>
 
-   <section class="bg-9 bg-center bg-fixed" style="background:url('assets/img/collage2.jpg');background-size:100%;">
+    <section class="bg-9 bg-center bg-fixed" style="background:url('assets/img/collage2.jpg');background-size:100%;">
         <div class="filling-section bg-filter">
             <br><br><br><br>
             <h1 class="text-center big-title">OUR TEAM</h1>
@@ -345,6 +345,7 @@ The exchange of perspectives between the industry personnel and the academia can
             </div>
         </div>
     </section>
+
 
 
     <section class="map">
