@@ -99,42 +99,287 @@ The exchange of perspectives between the industry personnel and the academia can
     <div class="bg-11 bg-center bg-fixed" style="background:url('assets/img/collage1.jpg');background-size:100%;">
         <div class="section-lg bg-filter-v2">
             <div class="container">
-                <div id="testimonial" class="carousel slide" data-ride="carousel" data-interval="9000">
+                <div id="testimonial" class="carousel slide" data-ride="carousel" data-interval="2000">
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
                             <div class="testimonial">
-
-                                <p>"&lt;--Some GREAT QUOTE OR EVENT DESCRIPTION GOES HERE--&gt;"</p>
+                                <p><u>Previous Year Participants</u></p>
                                 <div class="space-sm"></div>
-                                <em>- Team IAC</em>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l1.jpg" width="100%" height="100%">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l2.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l3.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l4.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l5.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l6.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l7.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l8.jpg">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial">
-                                <p>
-                                    "&lt;Some other quote&gt;"
-                                </p>
+                                <p><u>Previous Year Participants</u></p>
                                 <div class="space-sm"></div>
-                                <em> Some Company Name</em>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l9.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l10.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l11.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l12.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l13.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l14.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l15.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l16.jpg">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial">
-                                <p>
-                                    "&lt;Some other quote 2&gt;"
-                                </p>
+                                <p><u>Previous Year Participants</u></p>
                                 <div class="space-sm"></div>
-                                <em>- Some Company/Speaker Name</em>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l17.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l18.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l19.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l20.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l21.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l22.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l23.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l24.jpg">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial">
-                                <p>
-                                    "&lt;-- Some Other quote 3 --&gt;"
-                                </p>
+                                <p><u>Previous Year Participants</u></p>
                                 <div class="space-sm"></div>
-                                <em>- Some Company/Speaker Name</em>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l25.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l26.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l27.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l28.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l29.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l30.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l31.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l32.png">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l33.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l34.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l35.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l36.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l37.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l38.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l39.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l40.gif">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l41.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l42.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l43.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l44.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l45.jpeg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l46.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l47.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l48.png">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l49.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l50.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l51.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l52.gif">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l53.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l54.gif">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l55.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l56.jpg">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l57.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l58.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l59.png">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l60.jpg">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l61.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l62.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l63.jpg">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l64.jpg">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -190,7 +435,7 @@ The exchange of perspectives between the industry personnel and the academia can
                                     <div class="text-grey">
                                         <br>
                                         IAC panned out to be huge and brought in so many companies...<br><br>
-                                        read more on our <u><a href="http://iaciiti.in/">IAC 2014</a></u> website.<br>
+                                        read more on our <u><a href="http://iac.iiti.ac.in/2014/">IAC 2014</a></u> website.<br>
                                     </div>
                                 </div>
                             </div>
@@ -345,8 +590,6 @@ The exchange of perspectives between the industry personnel and the academia can
             </div>
         </div>
     </section>
-
-
 
     <section class="map">
         <h4 class="sr-only">Google Maps</h4>

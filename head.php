@@ -128,7 +128,7 @@
 
                 <!--Portfolio-->
                 <li class="dropdown">
-                    <a href="#" class="scroll dropdown-toggle" data-delay="0">Gallery
+                    <a href="gallery.html" class="scroll dropdown-toggle" data-delay="0">Gallery
                     </a>
                 </li>
 
