@@ -76,60 +76,9 @@
                     </a>
                 </li>
 
-                <!--Pages-->
-            <!--    <li class="dropdown">
-                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0">Activities</a>
-
-                    <ul class="dropdown-menu">
-                
-                         About Pages -->
-                <!--        <li class="dropdown-submenu">
-                            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Diwali Celebration</a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a href="activities.html#diwali">Old Age Home</a>
-                                </li>
-                                <li>
-                                    <a href="activities.html#diwali">Government Hospital</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="dropdown-submenu">
-                            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Eye Check-up</a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <a href="activities.html#eye">Eye Check-up Camp</a>
-                                </li>
-                                <li>
-                                    <a href="activities.html#eye">Eye Donation Seminar</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li>
-                            <a href="activities.html#independence">Independence Day</a>
-                        </li>
-
-                        <li>
-                            <a href="activities.html#cloth">Cloth Donation</a>
-                        </li>
-
-                        <li>
-                            <a href="activities.html#blood">Blood Donation</a>
-                        </li>
-                        
-                        <li>
-                            <a href="activities.html#food">Food Distribution</a>
-                        </li>
-
-                    </ul>
-                </li>
-                -->
-
                 <!--Portfolio-->
                 <li class="dropdown">
-                    <a href="gallery.html" class="scroll dropdown-toggle" data-delay="0">Gallery
+                    <a href="#" class="scroll dropdown-toggle" data-delay="0">Gallery
                     </a>
                 </li>
 
@@ -163,11 +112,11 @@
     <!-- Introduction section -->
     <section id="home">
         <div class="bg-filter sTop">
-                <center>
+            
                 <div class="jumbotron trn v-center">
-                    <img src="assets/img/poster.jpg" width="100%" height="425" style="margin-top:50px" align="center">
+                    <img src="assets/img/poster.jpg" width="100%" height="500" align="center">
                 </div>
-                </center>
+           
         </div>
     </section>
 
@@ -178,7 +127,7 @@
                 <div class="col-md-6">
                     <h2 class="text-primary wow fadeIn" data-wow-delay="0.2s" id="responsive_headline">Who We Are</h2>
                     <p class="text-block wow fadeIn" data-wow-delay="0.4s">Since its inception in 2012, IAC has evolved into a forum where experts from both Industry and Academia discuss and address important concerns, and galvanise their efforts towards forging successful partnerships that would prove mutually beneficial. <br><br>
-The <b>Industry Academia Conclave -2015</b>, much like its predecessors, aims at fostering improving relations between IIT Indore and the Industries. It is a sui generis platform that intends to encourage an interaction between the Academia and Industry, which might further lead to work on developing efficient solutions to complex problems which plague both -- the academia and industries. IAC 2015, as an endeavour, focuses on exploring research and consultancy avenues between IIT Indore and corporate organizations in order to augment India’s progress. 
+The <b>Industry-Academia Conclave -2015</b>, much like its predecessors, aims at fostering improving relations between IIT Indore and the Industries. It is a sui generis platform that intends to encourage an interaction between the Academia and Industry, which might further lead to work on developing efficient solutions to complex problems which plague both -- the academia and industries. IAC 2015, as an endeavour, focuses on exploring research and consultancy avenues between IIT Indore and corporate organizations. The theme of this year's conclave is: <b>Emerging Technologies and Innovations</b>.<br> IAC 2015 also, for the first time, presents an 'Innovation Pavilion' where innovators from all over India are given a chance to exhibit their products on one of the most pretigious platforms for Industry-Academic interaction.
 
                     </p>
                     <div class="space-sm visible-xs visible-sm"></div>
@@ -197,118 +146,114 @@ The exchange of perspectives between the industry personnel and the academia can
             </div>
         </div>
     </section>
-
-    <!-- Features and Services section -->
-
-    <!-- NOT NEEDED FOR US
-
-    <div class="section-lg">
-            <div class="wow fadeIn" data-wow-delay="1s">
-                <div class="text-center">
-                    <h2 class="text-primary">OUR VALUES</h2><br>
-                </div>
-            </div>
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="1s">
-                    <div class="text-center">
-                        <i class="fa fa-heart-o icon-o"></i>
-                        <h3 class="text-primary">Love</h3>
-                        <p class="text-grey"></p>
-                    </div>
-                    <div class="space visible-xs visible-sm"></div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="1.1s">
-                    <div class="text-center">
-                        <i class="fa fa-globe icon-o"></i>
-                        <h3 class="text-primary">Compassion</h3>
-                        <p class="text-grey"></p>
-                    </div>
-                    <div class="space visible-xs visible-sm"></div>
-                </div>
-                <div class="col-md-3 col-sm-6  wow fadeIn" data-wow-delay="1.2s">
-                    <div class="text-center">
-                        <i class="fa fa-group icon-o"></i>
-                        <h3 class="text-primary">Humanity</h3>
-                        <p class="text-grey"></p>
-                    </div>
-                    <div class="space visible-xs"></div>
-                </div>
-                <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay="1.3s">
-                    <div class="text-center">
-                        <i class="fa fa-smile-o icon-o"></i>
-                        <h3 class="text-primary">Sympathy</h3>
-                        <p class="text-grey"></p>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-
-
-    -->
-    <style>
-    img.wide {
-    max-width: 100%;
-    max-height: 100%;
-    height: auto;
-        }   
-    </style>
     
-    <div class="bg-11 bg-center bg-fixed" style="background:url('assets/img/collage1.jpg');background-size:100%;">
+    <div class="bg-11 bg-center bg-fixed" >
         <div class="section-lg bg-filter-v2">
             <div class="container">
-                <div id="testimonial" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="false">
-                    
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                        <li data-target="#testimonial" data-slide-to="0" class="active"></li>
-                        <li data-target="#testimonial" data-slide-to="1"></li>
-                        <li data-target="#testimonial" data-slide-to="2"></li>
-                        <li data-target="#testimonial" data-slide-to="3"></li>
-                        <li data-target="#testimonial" data-slide-to="4"></li>
-                        <li data-target="#testimonial" data-slide-to="5"></li>
-                        <li data-target="#testimonial" data-slide-to="6"></li>
-                        <li data-target="#testimonial" data-slide-to="7"></li>
-                    </ol>
-                    
+                <div id="testimonial" class="carousel slide" data-ride="carousel" data-interval="2500" style="height:450px;">
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner" style="padding-left:50px; padding-right:50px;">
+                    <div class="carousel-inner">
                         <div class="item active">
                             <div class="testimonial">
                                 <p><u>Previous Year Participants</u></p>
                                 <div class="space-sm"></div>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l1.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l1.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l2.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l2.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l3.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l3.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l4.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l4.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l5.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l5.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l6.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l6.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l7.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l7.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l8.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l8.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l9.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l10.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l11.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l12.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row" style="height:100px;">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l13.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l14.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l15.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l16.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial">
+                                <p><u>Previous Year Participants</u></p>
+                                <div class="space-sm"></div>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l17.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l18.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l19.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l20.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="row">
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l21.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l22.jpg" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l23.png" style="max-height:200px; max-width:100%;">
+                                    </div>
+                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
+                                        <img src="assets/img/prev_participants/l24.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
@@ -319,31 +264,32 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="space-sm"></div>
                                 <div class="row" style="height:100px;">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l9.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l25.jpg" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l10.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l26.jpg" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l11.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l27.jpg" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l12.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l28.jpg" style="height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
-                                <div class="row" style="height:100px;">
+                                <div class="space-sm"></div>
+                                <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l13.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l29.png" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l14.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l30.png" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l15.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l31.png" style="height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l16.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l32.png" style="height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
@@ -354,66 +300,31 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="space-sm"></div>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l17.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l33.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l18.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l34.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l19.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l35.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l20.jpg" width="100%" height="100%">
-                                    </div>
-                                </div>
-                                <br>
-                                <div class="row">
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l21.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l22.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l23.png" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l24.jpg" width="100%" height="100%">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial">
-                                <p><u>Previous Year Participants</u></p>
-                                <div class="space-sm"></div>
-                                <div class="row" style="height:100px;">
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l25.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l26.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l27.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l28.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l36.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l29.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l37.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l30.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l38.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l31.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l39.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l32.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l40.gif" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
@@ -424,31 +335,31 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="space-sm"></div>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l33.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l41.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l34.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l42.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l35.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l43.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l36.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l44.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l37.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l45.jpeg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l38.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l46.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l39.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l47.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l40.gif" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l48.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
@@ -459,31 +370,31 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="space-sm"></div>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l41.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l49.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l42.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l50.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l43.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l51.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l44.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l52.gif" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l45.jpeg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l53.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l46.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l54.gif" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l47.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l55.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l48.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l56.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
@@ -494,81 +405,36 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="space-sm"></div>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l49.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l57.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l50.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l58.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l51.png" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l59.png" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l52.gif" width="100%" height="100%">
-                                    </div>
-                                </div>
-                                <br>
-                                <div class="row">
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l53.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l54.gif" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l55.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l56.jpg" width="100%" height="100%">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial">
-                                <p><u>Previous Year Participants</u></p>
-                                <div class="space-sm"></div>
-                                <div class="row">
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l57.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l58.jpg" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l59.png" width="100%" height="100%">
-                                    </div>
-                                    <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l60.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l60.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                                 <br>
                                 <div class="row">
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l61.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l61.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l62.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l62.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l63.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l63.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                     <div class="col-md-3 col-lg-3 col-sm-9 col-xs-9">
-                                        <img src="assets/img/prev_participants/l64.jpg" width="100%" height="100%">
+                                        <img src="assets/img/prev_participants/l64.jpg" style="max-height:200px; max-width:100%;">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    
-                    <!-- Left and right controls -->
-                    <a class="left carousel-control" href="#testimonial" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#testimonial" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
                 </div>
             </div>
         </div>
@@ -578,7 +444,6 @@ The exchange of perspectives between the industry personnel and the academia can
     <section class="section-lg" name="teaching">
         <div class="container">
             <h2 class="big-title text-center">Our Past Achievements</h2>
-            <p class="big-subtitle text-center" style="color:#777">We are proud of our team who is doing an amazing job for both academia and the indiustries -- </p>
             <p class="text-center" style="color:#777"><br>
                 
             </p>
@@ -591,7 +456,6 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="visible-part">
                                     <h4 class="type">IAC Begins</h4>
                                     <h3 class="price text-primary">IAC 2012</h3>
-                                    <h5 class="text-grey">In 2012... the journey starts.</h5>
                                 </div>
                                 <div class="hidden-part">
                                     <div class="text-grey">
@@ -599,8 +463,6 @@ The exchange of perspectives between the industry personnel and the academia can
                                       Our previous ventures:<br> <br>
                                         The start of iac:<br>
                                             <a href="http://placement.iiti.ac.in/iac.php">IAC 2012</a><br><br>
-                                        IAC increases its reaches:<br>
-                                        <a href="http://iiti.ac.in/people/~iac/">IAC 2013</a><br>
                                     </div>
                                 </div>
                             </div>
@@ -615,13 +477,11 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="visible-part">
                                     <h4 class="type">Biggest Concalve ever</h4>
                                     <h3 class="price text-primary">IAC 2014</h3>
-                                    <h5 class="text-grey">It's not how much we give but how much love we put into giving</h5>
                                 </div>
                                 <div class="hidden-part">
                                     <div class="text-grey">
                                         <br>
-                                        IAC panned out to be huge and brought in so many companies...<br><br>
-                                        read more on our <u><a href="http://iac.iiti.ac.in/2014/">IAC 2014</a></u> website.<br>
+                                        read more on our <u><a href="http://iaciiti.in/">IAC 2014</a></u> website.<br>
                                     </div>
                                 </div>
                             </div>
@@ -636,12 +496,11 @@ The exchange of perspectives between the industry personnel and the academia can
                                 <div class="visible-part">
                                     <h4 class="type">Bigger yet!!</h4>
                                     <h3 class="price text-primary">2015</h3>
-                                    <h5 class="text-grey">Yet to arrive, a blastout!</h5>
+                                    <!--<h5 class="text-grey">Yet to arrive, a blastout!</h5> -->
                                 </div>
                                 <div class="hidden-part">
                                     <div class="text-grey">
                                         <br>
-                                       We will pan out on even larger scale!! We'll rock! :P
                                     </div>
                                 </div>
                             </div>
@@ -653,7 +512,7 @@ The exchange of perspectives between the industry personnel and the academia can
             <div class="space"></div>
             <div class="panel panel-default bg-grey-4 text-center wow fadeIn" data-wow-delay="0s">
                 <div class="panel-body">
-                    <h4 class="wow fadeIn" data-wow-delay="0.25s">Feel free to contact us, we would love to hear!</h4>
+                    <h4 class="wow fadeIn" data-wow-delay="2s">Contact Info</h4>
                     <div class="space-sm"></div>
                     <ul class="list-inline wow fadeIn" data-wow-delay="0.5s">
                         <li>
@@ -687,52 +546,10 @@ The exchange of perspectives between the industry personnel and the academia can
     <section class="section-lg">
         <div class="container ">
             <h2 class="big-title text-center">Contact Us</h2>
-            <p class="big-subtitle text-center"> We look forward to listening to your ideas and experiences.</p>
+            <!--<p class="big-subtitle text-center"> We look forward to listening to your ideas and experiences.</p> -->
             <div class="space"></div>
             <div class="row">
-                <!--div class="col-md-6 col-sm-7">
-
-                    <div id="form-messages"></div>
-                    <form class="form-horizontal" role="form" id="ajax-contact" method="post" action="assets/php/mailer.php">
-                        <div class="form-group icon">
-                            <label for="name" class="col-sm-3 control-label">Full name</label>
-                            <div class="col-sm-9 ">
-                                <div class="control">
-                                    <input type="text" class="form-control" id="name" placeholder="Full name" name="name" required>
-                                    <i class="fa fa-user"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group icon">
-                            <label for="email" class="col-sm-3 control-label">Email</label>
-                            <div class="col-sm-9 ">
-                                <div class="control">
-                                    <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" required>
-                                    <i class="fa fa-envelope"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group icon">
-                            <label for="Message" class="col-sm-3 control-label">Message</label>
-                            <div class="col-sm-9 ">
-                                <div class="control">
-                                    <textarea class="form-control" rows="8" id="Message" placeholder="Message" name="message" required></textarea>
-                                    <i class="fa fa-comment"></i>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group icon">
-                            <div class="col-sm-offset-3 col-sm-9">
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="fa fa-paper-plane-o"></i>Send Message</button>
-                            </div>
-                        </div>
-                    </form>
-
-                    <div class="space visible-xs"></div>
-                </div-->
-
+                
                 <div class="col-md-2 col-sm-1">
                 </div>
 
@@ -792,15 +609,13 @@ The exchange of perspectives between the industry personnel and the academia can
 <script src="assets/js/min/modernizr.custom.min.js"></script>
 
 <!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
 
 <!--<script src="http://cdnjs.cloudflare.com/ajax/libs/less.js/2.1.0/less.min.js"></script>-->
 
 <!-- Bootstrap JS -->
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-<!-- Latest compiled JavaScript -->
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
 <!-- Bootstrap Plugin - open dropdown on hover -->
 <script src="assets/js/min/bootstrap-hover-dropdown.min.js"></script>
@@ -959,7 +774,7 @@ The exchange of perspectives between the industry personnel and the academia can
                         </li>
                         <li>
                             <i class="fa fa-angle-right fa-fw"></i>
-                            <a href="gallery.html" class="scroll">
+                            <a href="#" class="scroll">
                                 <span class="link-title">Gallery</span>- Capturing moments</a>
                         </li>
                         <li>
